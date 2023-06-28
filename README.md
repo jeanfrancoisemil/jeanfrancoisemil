@@ -12,4 +12,4 @@ I'm herbyvor, i like to make games and nerd stuff 👨‍💻
 🌟currently learning : html, rust, C <br>
 
 **more of my work :** -> linktree : https://linktr.ee/herbyvor <br>
-**Contact me :** -> discord : Herbyvor#8787
+**Contact me :** -> discord : @herbyvor
