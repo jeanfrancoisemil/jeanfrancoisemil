@@ -8,7 +8,7 @@ I'm herbyvor, i make games sometimes *yey*
 🌟Admin and dev of NoSkillWorld <br>
 🌟I like to make all sorts of videogames <br>
 🌟Using mostly : java & c# <br>
-🌟Able to use : C, c# python, java, SQL & OCaml <br>
+🌟Able to use : C, c# python, java, SQL & OCaml (and gdscript ig ??) <br>
 🌟currently learning : html, rust, C (and gdScript ig ?) <br>
 
 **more of my work :** -> linktree : https://linktr.ee/herbyvor <br>
